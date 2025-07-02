@@ -1,0 +1,9 @@
+1. Start by showcasing this website: https://www.thewordfinder.com/wordlibs/
+
+2. Show them madlibs + python slideshow: https://docs.google.com/presentation/d/1jrEHUsdh527ZBceufDyK37dA49YGYUBdP06qIJOdcs4/edit?usp=sharing
+
+3. Have them create a replit account
+
+4. Fork the starter code on replit: https://replit.com/join/ydqpmmolff-braydenhowells2
+
+5. Work time for everyone :)

@@ -19,3 +19,6 @@ def playGame():
 if __name__ == "__main__":
     displayInstructions()
     playGame()
+
+    # Here is a link to the python tutorial slideshow again:
+    # https://tinyurl.com/python-slideshow

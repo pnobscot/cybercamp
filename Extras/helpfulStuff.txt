@@ -1,0 +1,4 @@
+links:
+https://carbon.now.sh formatted display code
+https://tinyurl.com/ url shortener
+

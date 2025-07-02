@@ -7,7 +7,7 @@ def playGame():
     noun1 = input("Please give me a noun: ")
 
     # Here is where you will ask for more nouns, verbs, and adverbs
-    # You could even throw in some numbers or sound effects :)
+    # You could even throw in some sound effects :)
 
     # Next, use the inputted words in your story!
     # The lines below are to remind you of the formatted string, please change them!
@@ -19,3 +19,6 @@ def playGame():
 if __name__ == "__main__":
     displayInstructions()
     playGame()
+
+    # Here is a link to the python tutorial slideshow again:
+    # https://tinyurl.com/python-slideshow

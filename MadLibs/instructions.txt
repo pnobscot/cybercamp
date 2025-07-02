@@ -1,9 +1,11 @@
 1. Start by showcasing this website: https://www.thewordfinder.com/wordlibs/
 
-2. Show them madlibs + python slideshow: https://docs.google.com/presentation/d/1jrEHUsdh527ZBceufDyK37dA49YGYUBdP06qIJOdcs4/edit?usp=sharing
+2. Have them create their own story (anywhere) and remove certain verbs, nouns, etc.
 
-3. Have them create a replit account
+3. Show them madlibs + python slideshow: https://tinyurl.com/python-slideshow
 
-4. Fork the starter code on replit: https://replit.com/join/ydqpmmolff-braydenhowells2
+4. Have them create a replit account
 
-5. Work time for everyone :)
+5. Fork the starter code on replit: https://tinyurl.com/mad-libs-2025
+
+6. Work time for everyone :)

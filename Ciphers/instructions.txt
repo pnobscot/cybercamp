@@ -1,0 +1,13 @@
+1. Start by asking: “Have you ever wanted to send a secret message?”
+
+2. Hand out Caesar cipher wheels or a Caesar shift chart.
+
+3. Explain Caesar cipher: each letter is shifted by a number (e.g., A → D with a shift of 3).
+
+4. Practice together: encode “HELLO” using a Caesar shift of +3.
+
+5. Give each group a pre-written encrypted message and challenge them to decode it.
+
+6. Have students invent their own cipher (letter swaps, symbols, or made-up rules).
+
+7. Trade ciphers with another group and try to decode each other's message.

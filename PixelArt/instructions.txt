@@ -1,0 +1,7 @@
+1. Go to https://www.piskelapp.com/ (free, no account needed).
+2. Watch this short intro video: https://youtu.be/tlpCU871Xyg?si=7JbQIRI1gDCMFJOz
+3. Give a short demo or let them explore tools: how to draw pixels, use tools, and add a new frame.
+4. Challenge 1: Create a simple 8x8 or 16x16 pixel character or emoji.
+5. Challenge 2: Create a short 2-frame animation (waving, blinking, etc.).
+6. Encourage students to experiment with colors, backgrounds, and layers.
+7. Save and share animations or export as GIFs to show the group.

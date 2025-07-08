@@ -1,8 +1,15 @@
-1. Review base 10 (normal numbers), then introduce binary (1s and 0s).
-2. Explain how hexadecimal is a shortcut for writing long binary numbers (base 16).
-3. Practice converting between binary, decimal, and hex with a worksheet.
-4. Show the ASCII table and explain how each letter is represented by a number.
-5. Have students write out their name using ASCII codes in hexadecimal.
-6. Assign a colored bead (or symbol) to each hex digit (0–F).
+1. Watch the intro video: https://www.youtube.com/watch?v=Xpk67YzOn5w
+
+2. Display slideshow to review base 10 (normal numbers), then introduce binary (1s and 0s).
+
+3. Explain how hexadecimal is a shortcut for writing long binary numbers (base 16).
+
+4. Practice converting between binary, decimal, and hex using problems built into the slides (no worksheet).
+
+5. Show the ASCII table and explain how each letter is represented by a number.
+
+6. Have students write out their name using ASCII codes in hexadecimal.
+
 7. Students use beads to create a bracelet that encodes their name in hex.
-8. Optional: Trade bracelets and decode each other’s names.
+
+8. Trade bracelets and decode each other’s names.

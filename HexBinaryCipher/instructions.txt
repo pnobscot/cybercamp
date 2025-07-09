@@ -1,0 +1,15 @@
+1. Watch the intro video: https://www.youtube.com/watch?v=Xpk67YzOn5w
+
+2. Display slideshow to review base 10 (normal numbers), then introduce binary (1s and 0s).
+
+3. Explain how hexadecimal is a shortcut for writing long binary numbers (base 16).
+
+4. Practice converting between binary, decimal, and hex using problems built into the slides (no worksheet).
+
+5. Show the ASCII table and explain how each letter is represented by a number.
+
+6. Play a Kahoot quiz to practice decoding binary and hexadecimal ASCII codes.
+
+7. Split students into teams and hand out the printed decoding challenge.
+
+8. Teams race to decode all three messages: two binary and one hex. First correct team wins candy and joins the Hall of Fame.
